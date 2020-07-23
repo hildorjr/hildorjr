@@ -1,11 +1,10 @@
-### Hey, how you doing? 😎
+# I'm Hildor, how you doing? 😎
+### A web developer who loves to code, mostly familiar with reactive frontend frameworks.
 
-I'm Hildor, a web developer who loves to code.
+- 👨‍💻 Access my personal website at [https://hildor.com.br](https://hildor.com.br)
 
-- 💪 I’m pretty confortable with reactive front-end frameworks, mostly Angular and Vue.
+- 💬 Ask me about **Vue or Angular**
 
-- 🔭 I’m currently working on Salvae, a note manager/editor app.
+- 📫 Reach me at my email [hildorjunior@gmail.com](mailto:hildorjunior@gmail.com) or via LinkedIn at [https://linkedin.com/in/hildor](https://linkedin.com/in/hildor)
 
-- 🌱 I’m currently learning NodeJS and initiating my journey into Flutter apps.
-
-- 📫 You can reach me by [e-mail](mailto:hildorjunior@gmail.com)
+![My stats](https://github-readme-stats.vercel.app/api?username=hildorjr&show_icons=true)
