@@ -1,5 +1,5 @@
-# I'm Hildor, how you doing? 😎
-### A web developer who loves to code, mostly familiar with reactive frontend frameworks.
+# I'm Hildor, how are you?
+### A web developer who loves to code, proficient with reactive frontend frameworks.
 
 - 👨‍💻 Access my personal website at [https://hildor.com.br](https://hildor.com.br)
 
