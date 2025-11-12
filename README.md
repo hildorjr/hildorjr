@@ -1,12 +1,7 @@
 # Hi there, I'm Hildor Junior 👋
-
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hildor)
-  [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hildor.dev)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hildorjunior@gmail.com)
-  
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hildor)
+[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hildor.dev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hildorjunior@gmail.com)
 
 ## 🚀 About Me
 
@@ -63,16 +58,9 @@ Senior Frontend Engineer with **9+ years** of experience crafting high-performan
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📊 GitHub Stats
-
-<div align="center">
-  
-  ![Hildor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hildorjr&show_icons=true&theme=radical&hide_border=true&count_private=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hildorjr&layout=compact&theme=radical&hide_border=true)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hildorjr&theme=radical&hide_border=true)
-
-</div>
+![Hildor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hildorjr&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hildorjr&layout=compact&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hildorjr&theme=radical&hide_border=true)
 
 ## 🏆 Highlights
 
