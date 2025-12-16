@@ -5,10 +5,10 @@
 
 ## 🚀 About Me
 
-Senior Frontend Engineer with **9+ years** of experience crafting high-performance web and mobile applications. I specialize in building scalable frontend architectures that delight users and drive business results.
+Senior Full-Stack Engineer with **9+ years** of experience crafting high-performance web and mobile applications. I specialize in building scalable frontend architectures that delight users and drive business results.
 
 - 🔭 Currently building innovative solutions at **Lumenalta**
-- 💡 Expert in **React, Next.js, Angular, TypeScript, and React Native**
+- 💡 Expert in **React, Next.js, Angular, TypeScript, React Native and Node**
 - 📊 Passionate about **performance optimization** and achieving 90+ Lighthouse scores
 - 🎯 Deployed applications serving **4,000+ monthly active users** with 99.9% uptime
 - 🌱 MBA in Leadership with focus on **mentoring engineers** and technical excellence
