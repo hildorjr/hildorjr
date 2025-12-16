@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-Senior Full-Stack Engineer with **9+ years** of experience crafting high-performance web and mobile applications. I specialize in building scalable frontend architectures that delight users and drive business results.
+Senior Software Engineer with **9+ years** of experience crafting high-performance web and mobile applications. I specialize in building scalable frontend architectures that delight users and drive business results.
 
 - 🔭 Currently open to work
 - 💡 Expert in **React, Next.js, Angular, TypeScript, React Native and Node**
