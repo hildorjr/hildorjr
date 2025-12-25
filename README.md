@@ -1,97 +1,83 @@
-# Hi there, I'm Hildor Junior 👋
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hildor)
-[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hildor.dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hildorjunior@gmail.com)
+# Hildor Junior
 
-## 🚀 About Me
+**Full Stack Software Engineer** · 9+ Years Building Scalable Applications
 
-Senior Software Engineer with **9+ years** of experience crafting high-performance web and mobile applications. I specialize in building scalable frontend architectures that delight users and drive business results.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hildor)
+[![Website](https://img.shields.io/badge/hildor.dev-000000?style=flat-square&logo=safari&logoColor=white)](https://hildor.dev)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hildorjunior@gmail.com)
 
-- 🔭 Currently open to work
-- 💡 Expert in **React, Next.js, Angular, TypeScript, React Native and Node**
-- 📊 Passionate about **performance optimization** and achieving 90+ Lighthouse scores
-- 🎯 Deployed applications serving **4,000+ monthly active users** with 99.9% uptime
-- 🌱 MBA in Leadership with focus on **mentoring engineers** and technical excellence
-- 📍 Based in **Porto Alegre, Brazil**
+---
 
-## 💻 Tech Stack
+### About
 
-### Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+Full Stack Engineer with nearly a decade of experience designing and shipping production systems end-to-end. I architect solutions from database schema to user interface, with a track record of delivering high-performance applications that scale.
 
-### Mobile Development
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
+---
 
-### State Management & APIs
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Apollo](https://img.shields.io/badge/Apollo%20GraphQL-311C87?style=for-the-badge&logo=apollo-graphql&logoColor=white)
+### Tech Stack
 
-### Styling & UI
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
+**Backend & Data**
 
-### Testing & Quality
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Testing Library](https://img.shields.io/badge/Testing%20Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
-### Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+**Frontend & Mobile**
 
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-## 📊 GitHub Stats
-![Hildor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hildorjr&show_icons=true&theme=radical&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hildorjr&layout=compact&theme=radical&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hildorjr&theme=radical&hide_border=true)
+**Infrastructure & DevOps**
 
-## 🏆 Highlights
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-- 🎯 **90+ Lighthouse Scores** - Expert in Core Web Vitals optimization
-- 📱 **4,000+ Active Users** - Deployed production apps with 99.9% crash-free sessions
-- ⚡ **25% Faster Deployments** - Built CI/CD pipelines reducing production time
-- 📈 **22% Better Conversion** - Improved UX through data-driven optimization
-- 👥 **Team Leadership** - Mentoring junior developers and driving technical roadmaps
-- 🌐 **Cross-Industry Experience** - Finance, Healthcare, Construction, and HVAC
+**Testing**
 
-## 📚 Education
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=flat-square&logo=testinglibrary&logoColor=white)
 
-- 🎓 **MBA in Leadership, Innovation and Management** - PUCRS (2021)
-- 🎓 **Bachelor of Information Systems** - PUCRS (2020)
-- 💡 Created **CanarinhoJS** - Portuguese-based programming language with 3,000+ visitors
+**AI & Auth**
 
-## 📫 Let's Connect!
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Auth0](https://img.shields.io/badge/Auth0-EB5424?style=flat-square&logo=auth0&logoColor=white)
 
-I'm always interested in collaborating on innovative projects and discussing frontend architecture, performance optimization, and team leadership.
+---
 
-- 💼 LinkedIn: [linkedin.com/in/hildor](https://linkedin.com/in/hildor)
-- 🌐 Website: [hildor.dev](https://hildor.dev)
-- 📧 Email: hildorjunior@gmail.com
-- 📍 Location: Porto Alegre, RS - Brazil
+### Impact
+
+| Metric | Achievement |
+|--------|-------------|
+| **Performance** | Consistently achieve 90+ Lighthouse scores through Core Web Vitals optimization |
+| **Scale** | Deployed production systems serving 4,000+ monthly active users with 99.9% uptime |
+| **Velocity** | Built CI/CD pipelines reducing deployment time by 25% |
+| **Business** | Improved conversion rates by 22% through data-driven UX decisions |
+| **Leadership** | Mentor engineers and drive technical roadmaps with an MBA in Leadership |
+
+---
+
+### Education
+
+**MBA, Leadership, Innovation & Management** — PUCRS, 2021  
+**B.S. Information Systems** — PUCRS, 2020
 
 ---
 
 <div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=hildorjr&color=blueviolet&style=for-the-badge)
-  
-  *"Building exceptional digital experiences, one commit at a time."*
-  
+
+📍 Porto Alegre, Brazil · Open to Remote
+
 </div>
