@@ -1,16 +1,9 @@
 # Hildor Junior
-
-**Full Stack Software Engineer** · 9+ Years Building Scalable Applications
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hildor)
 [![Website](https://img.shields.io/badge/hildor.dev-000000?style=flat-square&logo=safari&logoColor=white)](https://hildor.dev)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hildorjunior@gmail.com)
 
----
-
-### About
-
-Full Stack Engineer with nearly a decade of experience designing and shipping production systems end-to-end. I architect solutions from database schema to user interface, with a track record of delivering high-performance applications that scale.
+**Full Stack Software Engineer** with nearly a decade of experience designing and shipping production systems end-to-end. I architect solutions from database schema to user interface, with a track record of delivering high-performance applications that scale.
 
 ---
 
@@ -73,11 +66,3 @@ Full Stack Engineer with nearly a decade of experience designing and shipping pr
 
 **MBA, Leadership, Innovation & Management** — PUCRS, 2021  
 **B.S. Information Systems** — PUCRS, 2020
-
----
-
-<div align="center">
-
-📍 Porto Alegre, Brazil · Open to Remote
-
-</div>
