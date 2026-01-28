@@ -50,18 +50,6 @@
 
 ---
 
-### Impact
-
-| Metric | Achievement |
-|--------|-------------|
-| **Performance** | Consistently achieve 90+ Lighthouse scores through Core Web Vitals optimization |
-| **Scale** | Deployed production systems serving 4,000+ monthly active users with 99.9% uptime |
-| **Velocity** | Built CI/CD pipelines reducing deployment time by 25% |
-| **Business** | Improved conversion rates by 22% through data-driven UX decisions |
-| **Leadership** | Mentor engineers and drive technical roadmaps with an MBA in Leadership |
-
----
-
 ### Education
 
 **MBA, Leadership, Innovation & Management** — PUCRS, 2021  
